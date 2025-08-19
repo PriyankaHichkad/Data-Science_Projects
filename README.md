@@ -32,8 +32,7 @@ Some of the key projects consolidated in this repository are:
 (More projects added continuously...)
 
 ## How to Use:
-1. Clone this repository: git clone https://github.com/PriyankaHichkad/Data-Science_Projects.git[https://github.com/PriyankaHichkad/Data-Science_Projects.git]
-2. Navigate to a project folder of your choice.
+1. Clone this repository: git clone https://github.com/PriyankaHichkad/Data-Science_Projects.git
 3. Open the corresponding Jupyter Notebook (.ipynb) and run the code.
 4. Refer to individual project README files (if available) for details.
 
