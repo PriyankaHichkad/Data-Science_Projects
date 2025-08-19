@@ -9,11 +9,11 @@ It serves as a central hub consolidating all my individual project repositories 
 
 ## Overview:
 The projects included in this repository cover diverse areas of data science, including:
-- Supervised Learning: Classification and Regression
-- Unsupervised Learning: Clustering and Dimensionality Reduction
-- Natural Language Processing (NLP): Sentiment Analysis, Text Classification, Feature Engineering
-- Time Series Forecasting: Stock Price Prediction, Trend Analysis
-- Model Evaluation & Optimization: Hyperparameter tuning, Cross-validation, Metrics
+- **Supervised Learning:** Classification and Regression
+- **Unsupervised Learning:** Clustering and Dimensionality Reduction
+- **Natural Language Processing (NLP):** Sentiment Analysis, Text Classification, Feature Engineering
+- **Time Series Forecasting:** Stock Price Prediction, Trend Analysis
+- **Model Evaluation & Optimization:** Hyperparameter tuning, Cross-validation, Metrics
 
 
 ## Tools & Technologies:
