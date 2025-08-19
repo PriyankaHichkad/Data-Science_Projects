@@ -31,7 +31,7 @@ The following libraries, frameworks, and tools have been widely used across the 
 Some of the key projects consolidated in this repository are:
 - **Credit Card Fraud Detection** → Identifying fraudulent transactions using classification models.
 - **Sentiment Analysis** → Analyzing textual reviews to classify sentiment using NLP techniques.
-- **Netflix Stock Price Prediction →** Time series forecasting to predict stock movements.
+- **Netflix Stock Price Prediction** → Time series forecasting to predict stock movements.
 (More projects added continuously...)
 
 
