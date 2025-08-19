@@ -18,20 +18,20 @@ The projects included in this repository cover diverse areas of data science, in
 
 ## Tools & Technologies:
 The following libraries, frameworks, and tools have been widely used across the projects:
-- Programming Language: Python
-- Machine Learning Models: Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, XGBoost, KNN, and more
-- Deep Learning: TensorFlow, Keras, PyTorch (in selective projects)
-- NLP: NLTK, SpaCy, TF-IDF, Word2Vec, Transformers
-- Time Series: ARIMA, LSTM, Prophet
-- Data Handling & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- Development Tools: Jupyter Notebooks, Git/GitHub
+- **Programming Language:** Python
+- **Machine Learning Models:** Linear Regression, Logistic Regression, Decision Tree, Random Forest, SVM, XGBoost, KNN, and more
+- **Deep Learning:** TensorFlow, Keras, PyTorch (in selective projects)
+- **NLP:** NLTK, SpaCy, TF-IDF, Word2Vec, Transformers
+- **Time Series:** ARIMA, LSTM
+- **Data Handling & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Development Tools:** Jupyter Notebooks, Git/GitHub
 
 
 ## Projects Included:
 Some of the key projects consolidated in this repository are:
-- Credit Card Fraud Detection → Identifying fraudulent transactions using classification models.
-- Sentiment Analysis → Analyzing textual reviews to classify sentiment using NLP techniques.
-- Netflix Stock Price Prediction → Time series forecasting to predict stock movements.
+- **Credit Card Fraud Detection** → Identifying fraudulent transactions using classification models.
+- **Sentiment Analysis** → Analyzing textual reviews to classify sentiment using NLP techniques.
+- **Netflix Stock Price Prediction →** Time series forecasting to predict stock movements.
 (More projects added continuously...)
 
 
